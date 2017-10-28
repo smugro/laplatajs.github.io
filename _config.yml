@@ -5,9 +5,9 @@ email: contact@smug.ro
 
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
-twitter_username: scugro
-github_username:  scugro
-facebook_group: scugro
+twitter_username: smugro
+github_username:  smugro
+facebook_group: smugro
 
 # Build settings
 markdown: kramdown
